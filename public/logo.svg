@@ -1,0 +1,30 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- FiraHotel Logo -->
+  
+  <!-- Decorative Ethiopian Pattern -->
+  <circle cx="15" cy="30" r="12" stroke="#D4AF37" stroke-width="2" fill="none"/>
+  <circle cx="15" cy="30" r="8" stroke="#D4AF37" stroke-width="1.5" fill="none"/>
+  <circle cx="15" cy="30" r="4" fill="#D4AF37"/>
+  
+  <!-- Text: Fira -->
+  <text x="35" y="40" font-family="Playfair Display, serif" font-size="32" font-weight="700" fill="#0A2463">
+    Fira
+  </text>
+  
+  <!-- Text: Hotel (with gradient) -->
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#D4AF37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F4E5C3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <text x="100" y="40" font-family="Playfair Display, serif" font-size="32" font-weight="700" fill="url(#goldGradient)">
+    Hotel
+  </text>
+  
+  <!-- Tagline -->
+  <text x="35" y="52" font-family="Inter, sans-serif" font-size="8" font-weight="400" fill="#6B7280" letter-spacing="2">
+    ETHIOPIAN LUXURY
+  </text>
+</svg>

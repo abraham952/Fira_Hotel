@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Deluxe Suite">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8F9FA"/>
+      <stop offset="100%" stop-color="#e6ebf5"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B59A6A"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#bg)" rx="24"/>
+  <rect x="40" y="140" width="560" height="170" rx="18" fill="#0A2463" opacity="0.08"/>
+  <rect x="80" y="110" width="240" height="160" rx="16" fill="#0A2463" opacity="0.16"/>
+  <rect x="340" y="110" width="220" height="140" rx="16" fill="#0A2463" opacity="0.1"/>
+  <rect x="80" y="296" width="480" height="10" fill="url(#accent)" rx="5"/>
+  <text x="60" y="70" fill="#0A2463" font-family="'Playfair Display', serif" font-size="32" font-weight="700">Deluxe Suite</text>
+  <text x="60" y="105" fill="#4b5563" font-family="Inter, sans-serif" font-size="18">FiraHotel</text>
+</svg>
