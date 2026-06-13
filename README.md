@@ -1,5 +1,8 @@
 # FiraHotel - Luxury Multi-Lingual Hotel Platform
 
+## 🚀 Live Demo
+🔗 Visit the project here: https://firahotel.com.et/
+
 A world-class, multi-lingual digital ecosystem for luxury hospitality built with Laravel 12 and Tailwind CSS 4.
 
 ## Features
